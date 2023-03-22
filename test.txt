@@ -1,1 +1,2 @@
-Created new file
+Created new file.
+It's for first lab.
